@@ -1,4 +1,4 @@
-//----------------Program developed by R.Girish------------//
+//----------------homemade-circuits.com------------//
 int temp = 0;
 int i = 0;
 int j = 0;
@@ -109,4 +109,4 @@ Serial.println((char)26); // ASCII code of CTRL+Z
 delay(1000);
 }
 }
-//----------------Program developed by R.Girish------------//
+//----------------homemade-circuits.com------------//
